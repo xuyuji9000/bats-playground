@@ -2,10 +2,17 @@
 
 This repos is used to document the learning about bats.
 
+- Install bats as a submodule 
+
+``` shell
+git submodule init
+git submodule add https://github.com/sstephenson/bats test/libs/bats
+```
+
 - run a bats test
 
 ```bash
-bats test.bats
+./test/libs/bats/bin/bats test.bats
 ```
 
 # Reference
