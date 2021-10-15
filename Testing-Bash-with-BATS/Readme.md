@@ -3,5 +3,5 @@ This folder trys to document the learning about article [Testing Bash with BATS]
 
 - [compare-execute-directly-with-source](./compare-execute-directly-with-source/Readme.md)
 
-- [annotate-refactored-build.sh](./compare-execute-directly-with-source/Readme.md)
+- [annotate-refactored-build.sh](./annotate-refactored-build.sh/Readme.md)
 
