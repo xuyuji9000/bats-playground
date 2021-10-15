@@ -1,5 +1,9 @@
 This foder contains the annotaion of refactored build.sh.
 
+- [local_var.sh](./local_var.sh)
+
+    > Compare the difference between local and global variables.
+
 
 # Reference
 
