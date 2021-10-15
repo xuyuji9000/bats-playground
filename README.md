@@ -15,6 +15,4 @@ git submodule add https://github.com/sstephenson/bats test/libs/bats
 ./test/libs/bats/bin/bats test.bats
 ```
 
-# Reference
-
-- [Testing Bash with BATS](https://opensource.com/article/19/2/testing-bash-bats)
+- [Testing-Bash-with-BATS](Testing-Bash-with-BATS/Readme.md)
