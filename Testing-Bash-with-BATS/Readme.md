@@ -5,3 +5,4 @@ This folder trys to document the learning about article [Testing Bash with BATS]
 
 - [annotate-refactored-build.sh](./annotate-refactored-build.sh/Readme.md)
 
+- [bats-syntax](bats-syntax/Readme.md)
