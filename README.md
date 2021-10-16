@@ -5,14 +5,19 @@ This repos is used to document the learning about bats.
 - Install bats as a submodule 
 
 ``` shell
-git submodule init
-git submodule add https://github.com/sstephenson/bats test/libs/bats
+# Install on macos
+brew install bats-core
 ```
 
 - run a bats test
 
 ```bash
-./test/libs/bats/bin/bats test.bats
+bats test.bats
 ```
 
 - [Testing-Bash-with-BATS](Testing-Bash-with-BATS/Readme.md)
+
+
+# Reference
+
+- [Testing Bash scripts with the Bats testing framework](https://advancedweb.hu/testing-bash-scripts-with-the-bats-testing-framework/)
