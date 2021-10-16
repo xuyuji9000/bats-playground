@@ -1,4 +1,4 @@
-# bats-demo
+# bats-playground
 
 This repos is used to document the learning about bats.
 
