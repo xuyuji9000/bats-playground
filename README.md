@@ -1,4 +1,4 @@
-# bats-demo
+# bats-playground
 
 This repos is used to document the learning about bats.
 
@@ -16,7 +16,6 @@ bats test.bats
 ```
 
 - [Testing-Bash-with-BATS](Testing-Bash-with-BATS/Readme.md)
-
 
 # Reference
 
