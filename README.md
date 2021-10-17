@@ -5,8 +5,10 @@ This repos is used to document the learning about bats.
 - Install bats as a submodule 
 
 ``` shell
-# Install on macos
-brew install bats-core
+git submodule init
+git submodule add https://github.com/bats-core/bats-core test/libs/bats
+git submodule add https://github.com/bats-core/bats-assert test/libs/bats-assert
+git submodule add https://github.com/bats-core/bats-support test/libs/bats-support
 ```
 
 - run a bats test
