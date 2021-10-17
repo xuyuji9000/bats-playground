@@ -1,6 +1,6 @@
-This folder contains an example comparing executing a bash script directly with sourcing a bash script.
+This folder contains an example comparing executing a bash script and sourcing a bash script.
 
-- Execute `./test.sh` directly
+- Execute `./test.sh`
 
 ``` shell
 ./test.sh
