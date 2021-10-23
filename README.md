@@ -1,7 +1,8 @@
 # bats-playground
 
-This repos is used to document the learning about bats.
+This repo is used to document the learning about bats.
 
+# Commands
 - Install bats libraries as submodules
 
 ``` shell
@@ -16,6 +17,8 @@ git submodule add https://github.com/bats-core/bats-support test/libs/bats-suppo
 ```bash
 test/libs/bats/bin/bats test.bats
 ```
+
+# Learning
 
 - [Testing-Bash-with-BATS](Testing-Bash-with-BATS/Readme.md)
 
